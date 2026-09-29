@@ -1,0 +1,46 @@
+{
+  "_notes": "Current stories expire 24h after `postedHoursAgo`. Fixed stories never expire while pinned. Story rings in the Current tab are ordered by most recent story per author. Text is an optional overlay on the image.",
+  "current": [
+    { "id": "s-01", "author": "mari.trail", "image": "assets/stories/story-01.jpg", "text": "Saturday. 6 AM. Be there 🌄", "postedHoursAgo": 1 },
+    { "id": "s-02", "author": "mari.trail", "image": "assets/stories/story-13.jpg", "text": "Testing the new vest for race day", "postedHoursAgo": 3 },
+    { "id": "s-03", "author": "mari.trail", "image": "assets/stories/story-17.jpg", "text": "", "postedHoursAgo": 9 },
+    { "id": "s-04", "author": "mari.trail", "image": "assets/stories/story-19.jpg", "text": "Worth every step", "postedHoursAgo": 14 },
+
+    { "id": "s-05", "author": "rafa.ultra", "image": "assets/stories/story-11.jpg", "text": "Mud season is here 🫠", "postedHoursAgo": 2 },
+    { "id": "s-06", "author": "rafa.ultra", "image": "assets/stories/story-04.jpg", "text": "Road section done, dirt next", "postedHoursAgo": 5 },
+    { "id": "s-07", "author": "rafa.ultra", "image": "assets/stories/story-12.jpg", "text": "", "postedHoursAgo": 11 },
+    { "id": "s-08", "author": "rafa.ultra", "image": "assets/stories/story-25.jpg", "text": "Fog at the top. Turned back early.", "postedHoursAgo": 20 },
+
+    { "id": "s-09", "author": "ju.corre", "image": "assets/stories/story-06.jpg", "text": "Legs are back!!", "postedHoursAgo": 2 },
+    { "id": "s-10", "author": "ju.corre", "image": "assets/stories/story-10.jpg", "text": "Golden hour club 🌅", "postedHoursAgo": 6 },
+    { "id": "s-11", "author": "ju.corre", "image": "assets/stories/story-20.jpg", "text": "", "postedHoursAgo": 15 },
+
+    { "id": "s-12", "author": "thiago.serra", "image": "assets/stories/story-15.jpg", "text": "Bridge is open again ✅", "postedHoursAgo": 4 },
+    { "id": "s-13", "author": "thiago.serra", "image": "assets/stories/story-18.jpg", "text": "New trail marking after the fork", "postedHoursAgo": 7 },
+    { "id": "s-14", "author": "thiago.serra", "image": "assets/stories/story-28.jpg", "text": "", "postedHoursAgo": 18 },
+
+    { "id": "s-15", "author": "bia.montanha", "image": "assets/stories/story-02.jpg", "text": "Recovery run = playground run", "postedHoursAgo": 3 },
+    { "id": "s-16", "author": "bia.montanha", "image": "assets/stories/story-08.jpg", "text": "Still can't believe I finished", "postedHoursAgo": 12 },
+    { "id": "s-17", "author": "bia.montanha", "image": "assets/stories/story-16.jpg", "text": "", "postedHoursAgo": 21 },
+
+    { "id": "s-18", "author": "leo.trilha", "image": "assets/stories/story-14.jpg", "text": "Quiet forest morning", "postedHoursAgo": 5 },
+    { "id": "s-19", "author": "leo.trilha", "image": "assets/stories/story-29.jpg", "text": "", "postedHoursAgo": 10 },
+    { "id": "s-20", "author": "leo.trilha", "image": "assets/stories/story-30.jpg", "text": "Sky did its thing today", "postedHoursAgo": 22 }
+  ],
+  "fixed": [
+    { "id": "f-01", "author": "mari.trail", "image": "assets/stories/story-21.jpg", "text": "Welcome to Trail Run BR 💚", "pinnedAgo": "6mo" },
+    { "id": "f-02", "author": "mari.trail", "image": "assets/stories/story-22.jpg", "text": "Our base camp for the winter series", "pinnedAgo": "4mo" },
+
+    { "id": "f-03", "author": "rafa.ultra", "image": "assets/stories/story-23.jpg", "text": "100k finish line. Never again. (See you next year)", "pinnedAgo": "5mo" },
+    { "id": "f-04", "author": "rafa.ultra", "image": "assets/stories/story-27.jpg", "text": "The climb that started it all", "pinnedAgo": "3mo" },
+
+    { "id": "f-05", "author": "ju.corre", "image": "assets/stories/story-24.jpg", "text": "First group sunrise run, 2024", "pinnedAgo": "1y" },
+    { "id": "f-06", "author": "ju.corre", "image": "assets/stories/story-05.jpg", "text": "", "pinnedAgo": "2mo" },
+
+    { "id": "f-07", "author": "bia.montanha", "image": "assets/stories/story-26.jpg", "text": "42k done 🏁", "pinnedAgo": "1d" },
+    { "id": "f-08", "author": "bia.montanha", "image": "assets/stories/story-07.jpg", "text": "", "pinnedAgo": "3w" },
+
+    { "id": "f-09", "author": "carol.runs", "image": "assets/stories/story-09.jpg", "text": "Downhill form checklist 🦵", "pinnedAgo": "2w" },
+    { "id": "f-10", "author": "carol.runs", "image": "assets/stories/story-03.jpg", "text": "Warm-up routine before every trail", "pinnedAgo": "1mo" }
+  ]
+}

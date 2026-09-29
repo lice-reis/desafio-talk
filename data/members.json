@@ -1,0 +1,71 @@
+{
+  "currentUser": "alice.reis",
+  "adminWhenCurrentUserIsNotAdmin": "mari.trail",
+  "members": [
+    {
+      "username": "alice.reis",
+      "name": "Alice Reis",
+      "avatar": "assets/avatars/avatar-01.jpg",
+      "bio": "Learning to love uphills. 3 trail races and counting.",
+      "joined": "Mar 2025",
+      "isCurrentUser": true
+    },
+    {
+      "username": "mari.trail",
+      "name": "Mariana Costa",
+      "avatar": "assets/avatars/avatar-12.jpg",
+      "bio": "Founder of Trail Run BR. Ultra runner, coffee first.",
+      "joined": "Jan 2024",
+      "isDefaultAdmin": true
+    },
+    {
+      "username": "rafa.ultra",
+      "name": "Rafael Nunes",
+      "avatar": "assets/avatars/avatar-06.jpg",
+      "bio": "100k finisher. Ask me about poles.",
+      "joined": "Feb 2024"
+    },
+    {
+      "username": "ju.corre",
+      "name": "Juliana Prado",
+      "avatar": "assets/avatars/avatar-05.jpg",
+      "bio": "Sunrise runs and trail snacks.",
+      "joined": "Apr 2024"
+    },
+    {
+      "username": "thiago.serra",
+      "name": "Thiago Almeida",
+      "avatar": "assets/avatars/avatar-13.jpg",
+      "bio": "Serra do Mar local. Map nerd.",
+      "joined": "Jun 2024"
+    },
+    {
+      "username": "bia.montanha",
+      "name": "Beatriz Rocha",
+      "avatar": "assets/avatars/avatar-17.jpg",
+      "bio": "Vertical km addict.",
+      "joined": "Aug 2024"
+    },
+    {
+      "username": "leo.trilha",
+      "name": "Leonardo Dias",
+      "avatar": "assets/avatars/avatar-14.jpg",
+      "bio": "Slow and steady. Photos along the way.",
+      "joined": "Sep 2024"
+    },
+    {
+      "username": "carol.runs",
+      "name": "Carolina Melo",
+      "avatar": "assets/avatars/avatar-08.jpg",
+      "bio": "Physio by day, trail runner by weekend.",
+      "joined": "Nov 2024"
+    },
+    {
+      "username": "pedro.peak",
+      "name": "Pedro Farias",
+      "avatar": "assets/avatars/avatar-09.jpg",
+      "bio": "New here. Road runner switching to dirt.",
+      "joined": "Sep 2026"
+    }
+  ]
+}

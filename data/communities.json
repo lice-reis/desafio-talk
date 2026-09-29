@@ -1,0 +1,177 @@
+{
+  "_notes": "Only `trail-run-br` is navigable. All other communities are list items / Discover tiles and never open. Discover tiles show a post preview with the community name and avatar overlaid.",
+  "yourCommunities": [
+    {
+      "id": "trail-run-br",
+      "name": "Trail Run BR",
+      "avatar": "assets/communities/community-01.jpg",
+      "privacy": "private",
+      "members": 1284,
+      "navigable": true
+    },
+    {
+      "id": "road-cycling-sp",
+      "name": "Road Cycling SP",
+      "avatar": "assets/communities/community-02.jpg",
+      "privacy": "public",
+      "members": 5610,
+      "navigable": false
+    },
+    {
+      "id": "street-photography",
+      "name": "Street Photography",
+      "avatar": "assets/communities/community-06.jpg",
+      "privacy": "public",
+      "members": 22300,
+      "navigable": false
+    }
+  ],
+  "discover": [
+    {
+      "id": "surf-floripa",
+      "name": "Surf Floripa",
+      "avatar": "assets/communities/community-03.jpg",
+      "privacy": "public",
+      "members": 8900,
+      "navigable": false
+    },
+    {
+      "id": "climbing-rio",
+      "name": "Climbing Rio",
+      "avatar": "assets/communities/community-04.jpg",
+      "privacy": "private",
+      "members": 2150,
+      "navigable": false
+    },
+    {
+      "id": "outdoor-yoga",
+      "name": "Outdoor Yoga",
+      "avatar": "assets/communities/community-05.jpg",
+      "privacy": "public",
+      "members": 4300,
+      "navigable": false
+    },
+    {
+      "id": "marathon-runners-br",
+      "name": "Marathon Runners BR",
+      "avatar": "assets/communities/community-07.jpg",
+      "privacy": "public",
+      "members": 15800,
+      "navigable": false
+    },
+    {
+      "id": "open-water-swimmers",
+      "name": "Open Water Swimmers",
+      "avatar": "assets/communities/community-09.jpg",
+      "privacy": "private",
+      "members": 1900,
+      "navigable": false
+    },
+    {
+      "id": "camping-bushcraft",
+      "name": "Camping & Bushcraft",
+      "avatar": "assets/communities/community-08.jpg",
+      "privacy": "public",
+      "members": 7400,
+      "navigable": false
+    }
+  ],
+  "discoverGrid": [
+    {
+      "image": "assets/discover/discover-01.jpg",
+      "community": "road-cycling-sp"
+    },
+    {
+      "image": "assets/discover/discover-02.jpg",
+      "community": "surf-floripa"
+    },
+    {
+      "image": "assets/discover/discover-03.jpg",
+      "community": "climbing-rio"
+    },
+    {
+      "image": "assets/discover/discover-04.jpg",
+      "community": "outdoor-yoga"
+    },
+    {
+      "image": "assets/discover/discover-05.jpg",
+      "community": "street-photography"
+    },
+    {
+      "image": "assets/discover/discover-06.jpg",
+      "community": "marathon-runners-br"
+    },
+    {
+      "image": "assets/discover/discover-07.jpg",
+      "community": "open-water-swimmers"
+    },
+    {
+      "image": "assets/discover/discover-08.jpg",
+      "community": "camping-bushcraft"
+    },
+    {
+      "image": "assets/discover/discover-09.jpg",
+      "community": "road-cycling-sp"
+    },
+    {
+      "image": "assets/discover/discover-10.jpg",
+      "community": "surf-floripa"
+    },
+    {
+      "image": "assets/discover/discover-11.jpg",
+      "community": "climbing-rio"
+    },
+    {
+      "image": "assets/discover/discover-12.jpg",
+      "community": "outdoor-yoga"
+    },
+    {
+      "image": "assets/discover/discover-13.jpg",
+      "community": "street-photography"
+    },
+    {
+      "image": "assets/discover/discover-14.jpg",
+      "community": "marathon-runners-br"
+    },
+    {
+      "image": "assets/discover/discover-15.jpg",
+      "community": "open-water-swimmers"
+    },
+    {
+      "image": "assets/discover/discover-16.jpg",
+      "community": "camping-bushcraft"
+    },
+    {
+      "image": "assets/discover/discover-17.jpg",
+      "community": "road-cycling-sp"
+    },
+    {
+      "image": "assets/discover/discover-18.jpg",
+      "community": "surf-floripa"
+    },
+    {
+      "image": "assets/discover/discover-19.jpg",
+      "community": "climbing-rio"
+    },
+    {
+      "image": "assets/discover/discover-20.jpg",
+      "community": "outdoor-yoga"
+    },
+    {
+      "image": "assets/discover/discover-21.jpg",
+      "community": "street-photography"
+    },
+    {
+      "image": "assets/discover/discover-22.jpg",
+      "community": "marathon-runners-br"
+    },
+    {
+      "image": "assets/discover/discover-23.jpg",
+      "community": "open-water-swimmers"
+    },
+    {
+      "image": "assets/discover/discover-24.jpg",
+      "community": "camping-bushcraft"
+    }
+  ]
+}

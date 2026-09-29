@@ -1,0 +1,23 @@
+{
+  "id": "trail-run-br",
+  "name": "Trail Run BR",
+  "avatar": "assets/communities/community-01.jpg",
+  "privacy": "private",
+  "privacyDescription": "Only members can see who's in the community and what they post.",
+  "members": 1284,
+  "about": "A community for people who run on dirt, rocks and mountains in Brazil. Weekend group runs, race recaps, gear talk and trail conditions. All paces welcome, walking the uphills is mandatory.",
+  "created": "January 2024",
+  "location": "São Paulo, Brazil",
+  "rules": [
+    { "title": "Be kind and welcoming", "text": "Everyone was a beginner once. No pace shaming, no gear shaming." },
+    { "title": "Leave no trace", "text": "Take your trash home. Stay on marked trails. Respect wildlife and hikers." },
+    { "title": "Safety first", "text": "Share trail conditions, weather alerts and closures as soon as you know them." },
+    { "title": "Keep it about trails", "text": "No ads, no selling, no unrelated promotions." },
+    { "title": "What's shared here, stays here", "text": "Posts and stories in this community cannot be shared outside of it. Respect your fellow members." }
+  ],
+  "menu": {
+    "items": ["About", "Privacy", "Rules", "Members"],
+    "memberOnly": ["Leave community"],
+    "adminOnly": ["Settings"]
+  }
+}

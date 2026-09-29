@@ -1,0 +1,147 @@
+[
+  {
+    "id": "post-01",
+    "author": "mari.trail",
+    "image": "assets/posts/post-01.jpg",
+    "caption": "Saturday group run is ON 🌄 Meeting at the Pedra Grande trailhead, 6:00 AM. 14 km, easy pace, nobody gets left behind. Bring water and a headlamp for the first 20 minutes. Comment if you're in!",
+    "postedAgo": "2h",
+    "likes": 48,
+    "likedByMe": false,
+    "savedByMe": true,
+    "comments": [
+      { "author": "ju.corre", "text": "In!! Bringing the coffee thermos ☕", "ago": "1h" },
+      { "author": "rafa.ultra", "text": "Count me in. Headlamp charged.", "ago": "1h" },
+      { "author": "pedro.peak", "text": "First time with the group, is 14 km ok for a beginner?", "ago": "45m" },
+      { "author": "mari.trail", "text": "@pedro.peak totally, we stop at every viewpoint 😉", "ago": "30m" }
+    ]
+  },
+  {
+    "id": "post-02",
+    "author": "rafa.ultra",
+    "image": "assets/posts/post-02.jpg",
+    "caption": "Shoe question for the group: my old pair finally died after 900 km. Looking for something with more grip for wet rocks. What are you all running in these days?",
+    "postedAgo": "5h",
+    "likes": 21,
+    "likedByMe": true,
+    "savedByMe": false,
+    "comments": [
+      { "author": "thiago.serra", "text": "Anything with 5mm lugs. Grip over cushion for Serra do Mar.", "ago": "4h" },
+      { "author": "carol.runs", "text": "Whatever you pick, break them in before race day 🙏", "ago": "3h" }
+    ]
+  },
+  {
+    "id": "post-03",
+    "author": "ju.corre",
+    "image": "assets/posts/post-03.jpg",
+    "caption": "No caption needed. 5:47 AM. 🥹",
+    "postedAgo": "8h",
+    "likes": 132,
+    "likedByMe": true,
+    "savedByMe": true,
+    "comments": [
+      { "author": "leo.trilha", "text": "This is why we wake up early.", "ago": "7h" },
+      { "author": "bia.montanha", "text": "WHERE is this??", "ago": "6h" },
+      { "author": "ju.corre", "text": "@bia.montanha the ridge after the second stream crossing, you know it 😄", "ago": "6h" }
+    ]
+  },
+  {
+    "id": "post-04",
+    "author": "bia.montanha",
+    "image": "assets/posts/post-04.jpg",
+    "caption": "RACE RECAP 🏁 Finished my first 42k trail yesterday. Cried at km 30, laughed at km 40, ate everything at the finish. Thank you to everyone in this group who told me I could do it. You were right.",
+    "postedAgo": "1d",
+    "likes": 210,
+    "likedByMe": false,
+    "savedByMe": false,
+    "comments": [
+      { "author": "mari.trail", "text": "SO proud of you!!! 🎉🎉", "ago": "1d" },
+      { "author": "rafa.ultra", "text": "Welcome to the marathon club. Next: 50k 👀", "ago": "1d" },
+      { "author": "carol.runs", "text": "Rest week now, doctor's orders 😂", "ago": "23h" },
+      { "author": "ju.corre", "text": "Legend.", "ago": "20h" }
+    ]
+  },
+  {
+    "id": "post-05",
+    "author": "leo.trilha",
+    "image": "assets/posts/post-05.jpg",
+    "caption": "Halfway break with the best view in the state. Sometimes the run is just an excuse to sit here.",
+    "postedAgo": "1d",
+    "likes": 87,
+    "likedByMe": false,
+    "savedByMe": false,
+    "comments": [
+      { "author": "thiago.serra", "text": "That rock is the official group bench at this point.", "ago": "1d" }
+    ]
+  },
+  {
+    "id": "post-06",
+    "author": "thiago.serra",
+    "image": "assets/posts/post-06.jpg",
+    "caption": "TRAIL UPDATE ⚠️ The ridge section after the antenna is very exposed and windy right now. Rangers recommend turning back before noon this week. Stay safe and tell the group if you go.",
+    "postedAgo": "2d",
+    "likes": 64,
+    "likedByMe": true,
+    "savedByMe": true,
+    "comments": [
+      { "author": "mari.trail", "text": "Pinning this to the rules for the week. Thanks Thiago!", "ago": "2d" },
+      { "author": "pedro.peak", "text": "Good to know, was planning to go Thursday.", "ago": "2d" }
+    ]
+  },
+  {
+    "id": "post-07",
+    "author": "carol.runs",
+    "image": "assets/posts/post-07.jpg",
+    "caption": "Physio tip of the week 🦵 If your knees hurt on downhills, shorten your stride and let your arms do more. Land under your body, not in front of it. Try it on Saturday and tell me if it helped.",
+    "postedAgo": "3d",
+    "likes": 95,
+    "likedByMe": false,
+    "savedByMe": true,
+    "comments": [
+      { "author": "bia.montanha", "text": "This fixed my knees last month. Trust her.", "ago": "3d" },
+      { "author": "leo.trilha", "text": "Saving this 🙌", "ago": "2d" }
+    ]
+  },
+  {
+    "id": "post-08",
+    "author": "pedro.peak",
+    "image": "assets/posts/post-08.jpg",
+    "caption": "Hi everyone! New to the group and new to trails. I've been running on the road for 3 years and my friend dragged me to the mountains last weekend. I'm sore, I'm scratched, and I'm hooked. Any tips for a beginner?",
+    "postedAgo": "4d",
+    "likes": 73,
+    "likedByMe": true,
+    "savedByMe": false,
+    "comments": [
+      { "author": "mari.trail", "text": "Welcome Pedro! Join Saturday's run, that's tip #1 🤝", "ago": "4d" },
+      { "author": "rafa.ultra", "text": "Walk the uphills. Everybody does. Nobody admits it.", "ago": "4d" },
+      { "author": "ju.corre", "text": "Tip: more snacks than you think you need.", "ago": "3d" }
+    ]
+  },
+  {
+    "id": "post-09",
+    "author": "ju.corre",
+    "image": "assets/posts/post-09.jpg",
+    "caption": "Lake stop! 🏞️ We made it to the top and nobody wanted to go back down. Post-run swim was not planned but 10/10 recommend.",
+    "postedAgo": "5d",
+    "likes": 158,
+    "likedByMe": false,
+    "savedByMe": false,
+    "comments": [
+      { "author": "leo.trilha", "text": "The water was FREEZING and I would do it again.", "ago": "5d" },
+      { "author": "bia.montanha", "text": "Next time I'm bringing a towel 😂", "ago": "5d" }
+    ]
+  },
+  {
+    "id": "post-10",
+    "author": "mari.trail",
+    "image": "assets/posts/post-10.jpg",
+    "caption": "Reminder from your admin 💚 Leave no trace. Take your gel wrappers home, stay on the marked path, and say hi to the hikers. We share this mountain. Full rules are in the community menu.",
+    "postedAgo": "1w",
+    "likes": 119,
+    "likedByMe": true,
+    "savedByMe": false,
+    "comments": [
+      { "author": "thiago.serra", "text": "🙌🙌", "ago": "1w" },
+      { "author": "carol.runs", "text": "Picked up 3 wrappers last Saturday. Not ours, but still.", "ago": "6d" }
+    ]
+  }
+]
